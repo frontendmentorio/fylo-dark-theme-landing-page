@@ -1,6 +1,6 @@
-# Frontend Mentor - Fylo landing page with dark theme and features grid
+# Frontend Mentor - Fylo dark theme landing page
 
-![Design preview for the Fylo landing page with dark theme and features grid challenge](./design/desktop-preview.jpg)
+![Design preview for the Fylo dark theme landing page challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
