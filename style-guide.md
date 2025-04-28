@@ -13,16 +13,16 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Dark Blue (intro and email sign up background): hsl(217, 28%, 15%)
-- Dark Blue (main background): hsl(218, 28%, 13%)
-- Dark Blue (footer background): hsl(216, 53%, 9%)
-- Dark Blue (testimonials background): hsl(219, 30%, 18%)
+- Navy 850 (intro and email sign up background): hsl(217, 28%, 15%)
+- Navy 900 (main background): hsl(218, 28%, 13%)
+- Navy 950 (footer background): hsl(216, 53%, 9%)
+- Navy 800 (testimonials background): hsl(219, 30%, 18%)
 
 ### Accent
 
-- Cyan (inside call-to-action gradient): hsl(176, 68%, 64%)
-- Blue (inside call-to-action gradient): hsl(198, 60%, 50%)
-- Light Red (error): hsl(0, 100%, 63%)
+- Teal 200 (inside call-to-action gradient): hsl(176, 68%, 64%)
+- Cyan 500 (inside call-to-action gradient): hsl(198, 60%, 50%)
+- Red 500 (error): hsl(0, 100%, 63%)
 
 ### Neutral
 
